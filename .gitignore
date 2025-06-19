@@ -26,7 +26,14 @@
 *.a
 *.lib
 
+#vsocde
+.vscode
+
 # Executables
 *.exe
 *.out
 *.app
+*/fixedDecimal
+
+#objects
+*/*objects
