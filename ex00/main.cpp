@@ -6,7 +6,7 @@
 /*   By: lcalero <lcalero@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/06/19 11:23:20 by lcalero           #+#    #+#             */
-/*   Updated: 2025/06/19 13:26:03 by lcalero          ###   ########.fr       */
+/*   Updated: 2025/06/19 16:58:44 by lcalero          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,6 @@
 #include <iostream>
 
 int main( void )
-
 {
 	Fixed a;
 	Fixed b( a );
